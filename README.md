@@ -13,3 +13,9 @@ $ git commit -m "Add existing file"
 # 6 Push the chages in your local repository to GitHub
 $ git push origin your-branch
 # Pushes the changes in your local repository up to the remote repository you specified as the origin.
+
+
+
+
+INIT can be used to restart the system that you are working on
+git commit saves changes to the repository
