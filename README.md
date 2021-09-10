@@ -19,3 +19,11 @@ $ git push origin your-branch
 
 INIT can be used to restart the system that you are working on
 git commit saves changes to the repository
+
+
+
+
+![Github 1](https://user-images.githubusercontent.com/59849834/132795426-a6020332-78f9-4150-8d29-8a00c4b902ad.png)
+
+
+
